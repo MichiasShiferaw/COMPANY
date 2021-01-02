@@ -58,3 +58,19 @@ ul{
     display: flex;
     margin: 0;
 }
+
+
+.nav .social{
+    padding: 1.4rem 0;
+
+}
+.nav .nav-brand a{
+    font-size: 1.6rem;
+    padding: 1rem 0;
+    display: block;
+
+    /*text-decoration: none;*/
+    
+}
+
+/*------navbar section-----*/
