@@ -19,3 +19,42 @@ ul{
     list-style-type: none;
 
 }
+
+
+/* ------Global Classes-----*/
+
+
+/*------navbar section-----*/
+.nav{
+    background: white;
+    padding: 0 2rem;
+
+    /*Helps make it collaspable menu*/
+    height: 0rem;
+    min-height: 10vh;
+    overflow: hidden;
+
+}
+
+.nav .nav-menu{
+    justify-content:space-between;
+}
+
+.nav .nav-items{
+    /*list-style-type: none;*/
+    display: flex;
+    margin: 0;
+
+}
+
+.nav .nav-items .nav-link{
+    padding: 1.6rem 1rem;
+    font-size: 1.1rem;
+    position: relative;
+
+
+}
+.nav .nav-items{
+    display: flex;
+    margin: 0;
+}
